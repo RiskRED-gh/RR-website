@@ -1,0 +1,94 @@
+---
+layout: base.njk
+title: Our Team
+navTitle: Our Team
+navOrder: 11
+permalink: /team/
+---
+
+Risk Reduction Education for Disasters, Risk RED, is a U.S.-based non-governmental organisation that has long championed the right of children to safer schools worldwide. Risk RED helps ensure that in hazard-prone regions, a child's right to safety, survival and education is protected and that communities have the capacity to safeguard these rights.
+
+### Bishnu Pandey
+
+*(photo/bio to be added — see original site archive if needed)*
+
+### Rebekah Paci-Green
+
+I was born and raised in a remote village of western Nepal — Syangja district. My village had no roads, electricity or telecommunication. I was 12 years old when I first saw electricity in the nearby town of Palpa. Immediately, abstract dreams of engineering sprouted in my youthful mind. I wanted to upgrade my village with the same technology.
+
+At that time, no one in my area dreamed of sending their children to be engineers — let alone villagers who had never met an engineer. Looking back, I feel fortunate to even have had a school.
+
+Seeking to fulfill my quest, I finished secondary school at the village, then dove into a civil engineering program in Kathmandu and graduated with the highest honors. In my capstone project I learned about the existence of seismic design, but did not have sufficient knowledge to actually perform seismic design.
+
+Soon after the 1988 earthquake, Nepal changed the building codes to address the threat of future earthquakes. I wanted to understand these changes, so I sought a master's degree in Japan. But when the Japanese Embassy asked for a research proposal I didn't have enough knowledge to even know where to begin.
+
+[CV](https://huxley.wwu.edu/people/greenr21)
+
+### Rob Friedman
+
+I was born and raised in San Diego, California, where I also obtained my undergraduate degree, majoring in Visual Arts and Economics from the University of California at San Diego.
+
+Fascinated and lured, even as a young child, by lands overseas, I left for foreign pastures shortly after my graduation cap hit the ground. I purchased a one-way ticket to Europe where I spent several years teaching English in the Czech Republic and Spain before moving on to do the same in Chile. The experience served to open my eyes to different cultures, highlighting the differences but also the similarities to my own upbringing as a product of Southern California. What started out as a desire to broaden my worldview generated the motivation to return to the U.S. and Syracuse University to obtain a Master's Degree in International Relations, foreshadowing a future career in humanitarian assistance and development.
+
+One of my first posts after graduate school came with the United Nations High Commissioner for Refugees in Bosnia and Herzegovina. The bitter civil war had severed linkages between the country's ethnic Serbs, Croats, and Bosniaks and devastated the country. As recovery began, amidst overwhelming needs, my field office situated in the former "safe haven" town of Gorazde targeted the town's decimated infrastructure focusing on rebuilding homes and schools. As homes were rebuilt the recovery process started slowly. But it was only after the schools filled with teachers and students that the fractured communities began to show life again. It was my first lesson on the importance of schools in development/recovery situations, not only for education, but also for the health and interconnectedness of the community.
+
+I grew up tinkering with tools in my father's shop and helping him prepare for the commercial fishing season. I remember the vibration of wood sliding through the table saw, the heavy weight of his drill in my hand, and the burst of light slicing through the dark glass of an adult-size welder's shield as I held torch to metal.
+
+The work was visceral and satisfying. I could see our efforts take form over the course of weeks and months. The tasks required skills gained only from practice and careful observation.
+
+I never did get the knack of welding a straight line, but I did gain a respect for those who build with their hands.
+
+At university, and later in graduate school, I studied structural engineering and learned the science behind the tinkering I had done as a child. On the job, I enjoyed the challenge of designing beautiful buildings, but also languished in my disconnection from the people who would build and use the technology I designed.
+
+Then, in a single afternoon in 1999, everything changed.
+
+### Suha Ulgen
+
+I was born in Ankara, Turkey to a family with a long history of public service professionals. When my father died at the age of 49 while I was in primary school, I took an entrance exam to continue my studies at a prominent secondary education institution for orphans funded by a philanthropic educational foundation in Istanbul. When I left home to attend Darüşşafaka Lisesi as a boarding school student, I was 11 years old.
+
+In 1977 I came as a Fulbright scholar to study urban planning at the University of California, Los Angeles. I worked for Los Angeles County as an information management professional, met my wife, and began a family. Between 1998 and 2014 our family lived in: Istanbul, New York, Geneva, New York. California is home base again.
+
+Apart from living in 'earthquake country' in Turkey and the U.S., it was the 1999 Kocaeli and Düzce earthquakes that shifted our lives and sent us on a new trajectory. A humanitarian instinct brought us to the front lines to set up one of the first "public participation GIS" efforts in the world, in Turkey. In 2005 I joined the United Nations Office for the Coordination of Humanitarian Affairs working to support international humanitarian response with geoinformatics. Until 2013 I consulted to the Assistant Secretary General and Chief Information Technology Officer of the UN Secretariat in Geneva and New York focusing on initiation of the UN Crisis Information Management System and the UN Spatial Data Infrastructure project.
+
+Now, in collaboration with my most resourceful and devoted Risk RED colleagues, I take delight in leading the development of Risk rApps: information and communications technology solutions in the service of risk reduction and resilience education for disasters.
+
+### Ilan Kelman
+
+Ilan Kelman is Co-Director of Risk RED and can be found at [www.ilankelman.org](http://www.ilankelman.org) and on Twitter [@IlanKelman](https://twitter.com/ilankelman). Ilan is a Reader in Risk, Resilience and Global Health at University College London, England and Professor II at the University of Agder, Kristiansand, Norway. His overall research interest is linking disasters and health, including the integration of climate change into disaster research and health research. That covers three main areas: (i) disaster diplomacy and health diplomacy ([www.disasterdiplomacy.org](http://www.disasterdiplomacy.org)); (ii) island sustainability involving safe and healthy communities in isolated locations ([www.islandvulnerability.org](http://www.islandvulnerability.org)); and (iii) risk education for health and disasters ([www.riskred.org](http://www.riskred.org)).
+
+## Risk RED People
+
+### Board of Directors
+
+Risk RED is a not-for-profit corporation (501(c)(3)) registered in California with voluntary Board Members:
+
+- Mark Benthien, director of communication, education, and outreach for the Southern California Earthquake Center.
+- Marla Petal, founding Co-Director.
+- Michelle Katz, Esq., intellectual property rights lawyer.
+- Phyllis Ginsburg, volunteer.
+- Subhash Vaid, marketing strategist.
+
+### Co-Directors
+
+- [Ilan Kelman](http://www.ilankelman.org/) ([CV](http://www.ilankelman.org/IlanKelmanCV.pdf))
+- [Rebekah Paci-Green](https://huxley.wwu.edu/people/greenr21)
+
+### Advisory Board Members
+
+- Allan Lavell
+- Ben Wisner
+- Ian O'Donnell
+- Laura Steinberg
+- Susanna Hoffman
+
+### Consultants
+
+- Amod Dixit
+- Bishnu Pandey
+- Rajib Shaw
+- Suha Ulgen
+- Zeynep Turkmen
+
+### Associates
+
+Ana Miscolta, Cheney Shreve, Ali Asgary, Anup Karanth, Balaka Dey, Bijan Khazai, Bonnie Lund, Carol Kunz, Djillali Benouar, Dominic Dowling, Hilary Wallis, Jane Choi, JC Gaillard, June Kailes, Kubilay Hicyilmaz, Manu Gupta, Matt Hoss, Megh Rai, Nevra Erturk, Patrizia Bitter, Sanjaya Bhatia, Yasamin Izadkhah.

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} | RiskRED</title>
+  <meta name="description" content="Risk RED (Risk Reduction Education for Disasters) - championing the right of children to safer schools worldwide.">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="/">Risk RED</a>
+      <nav>
+        <ul>
+          {% for item in collections.nav %}
+          <li><a href="{{ item.url }}" {% if item.url == page.url %}aria-current="page"{% endif %}>{{ item.data.navTitle }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <h1>{{ title }}</h1>
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>&copy; {{ site.year }} Risk RED. Risk Reduction Education for Disasters is a U.S.-based 501(c)(3) non-profit.</p>
+      <p class="disclaimer">The material on this website is provided for information only. Neither definitive advice nor recommendations are implied. Each person or organisation accessing the website is responsible for making their own assessment of the topics discussed and are strongly advised to verify all information.</p>
+    </div>
+  </footer>
+</body>
+</html>
