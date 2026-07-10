@@ -8,6 +8,8 @@ permalink: /donate/
 
 ## Secure Nepal's Schools
 
+<img src="/images/donate-icon.png" alt="" style="max-width: 150px;">
+
 **Every penny makes a difference.**
 
 Schools do not need to fall down during earthquakes. We will do everything in our power to make safer schools a reality for Nepal's children.

@@ -8,7 +8,9 @@ permalink: /nepal-safer-schools/
 
 ### Safer Schools, Resilient Communities
 
-A Comparative Assessment of School Safety after the 2015 Nepal Earthquake — [Download Report](https://www.riskred.org/_files/ugd/96ab52_62ca9ca3a82f407ba21c0ba1272c6692.pdf)
+<img src="/images/nepal-report-cover.jpg" alt="" style="max-width: 200px;">
+
+A Comparative Assessment of School Safety after the 2015 Nepal Earthquake — [Download Report](/files/nepal-safer-schools-report.pdf)
 
 ## *We want to know exactly why schools collapsed, so it won't happen again.*
 
@@ -33,7 +35,7 @@ At each site, we conducted interviews with school staff and management committee
 
 **What's Next:** We are looking to extend this school safety assessment to analyze comprehensive post-disaster rapid damage assessment data and to develop a telephone survey, or a combination of purposive and random sampling of the remaining affected schools, in order to have a clearer picture of the extent of the problems and potential solutions identified in this study.
 
-[Download Report](https://www.riskred.org/_files/ugd/96ab52_62ca9ca3a82f407ba21c0ba1272c6692.pdf) &middot; [All Risk RED Projects in Nepal](/projects/)
+[Download Report](/files/nepal-safer-schools-report.pdf) &middot; [All Risk RED Projects in Nepal](/projects/)
 
 ### From the field
 

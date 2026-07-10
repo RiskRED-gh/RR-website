@@ -45,4 +45,4 @@ Coming soon! We're working on partnering with game makers to create a fun way fo
 
 ---
 
-[Download the Safer Schools Assessment Report](/nepal-safer-schools/) &middot; [Download the Causes of Death and Injuries Report](https://www.riskred.org/_files/ugd/96ab52_59f988f57926415e8b99acdf6c8e9fb2.pdf)
+[Download the Safer Schools Assessment Report](/nepal-safer-schools/) &middot; [Download the Causes of Death and Injuries Report](/files/nepal-causes-of-death-report.pdf)
