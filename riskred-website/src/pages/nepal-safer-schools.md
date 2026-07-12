@@ -36,9 +36,3 @@ At each site, we conducted interviews with school staff and management committee
 **What's Next:** We are looking to extend this school safety assessment to analyze comprehensive post-disaster rapid damage assessment data and to develop a telephone survey, or a combination of purposive and random sampling of the remaining affected schools, in order to have a clearer picture of the extent of the problems and potential solutions identified in this study.
 
 [Download Report](/files/nepal-safer-schools-report.pdf) &middot; [All Risk RED Projects in Nepal](/projects/)
-
-### From the field
-
-- [Media to Inspire](/blog/) (October 2015)
-- [To Be an Inspector](/blog/) (August 2015)
-- [Making Change](/blog/) (August 2015)
