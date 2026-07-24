@@ -75,6 +75,8 @@ Now, in collaboration with my most resourceful and devoted Risk RED colleagues, 
 
 ### Ilan Kelman
 
+<img src="/images/team-ilan-kelman.jpg" alt="Ilan Kelman" style="max-width: 150px;">
+
 Ilan Kelman https://www.ilankelman.org/ and Instagram/Threads/X @ILANKELMAN and Bluesky ilankelman.bsky.social is Professor of Disasters and Health at University College London, England and Professor II at UiT The Arctic University of Norway. His overall research interest is linking disasters and health, integrating climate change into both. Three main areas are: (i) disaster diplomacy and health diplomacy https://www.disasterdiplomacy.org/ ; (ii) island sustainability focusing on safe and healthy living and livelihoods https://www.islandvulnerability.org/ ; and (iii) risk education for health and disasters https://www.riskred.org/
 
 ## Risk RED People
