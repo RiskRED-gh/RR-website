@@ -22,18 +22,6 @@ Soon after the 1988 earthquake, Nepal changed the building codes to address the 
 
 [CV](/files/cv-bishnu-pandey.pdf) *(note: the CV file linked from the old site appears to be for an unrelated physics researcher — worth checking with Bishnu for the correct file before publishing)*
 
-### Rob Friedman
-
-<img src="/images/team-rob-friedman.jpg" alt="Rob Friedman" style="max-width: 150px;">
-
-I was born and raised in San Diego, California, where I also obtained my undergraduate degree, majoring in Visual Arts and Economics from the University of California at San Diego.
-
-Fascinated and lured, even as a young child, by lands overseas, I left for foreign pastures shortly after my graduation cap hit the ground. I purchased a one-way ticket to Europe where I spent several years teaching English in the Czech Republic and Spain before moving on to do the same in Chile. The experience served to open my eyes to different cultures, highlighting the differences but also the similarities to my own upbringing as a product of Southern California. What started out as a desire to broaden my worldview generated the motivation to return to the U.S. and Syracuse University to obtain a Master's Degree in International Relations, foreshadowing a future career in humanitarian assistance and development.
-
-One of my first posts after graduate school came with the United Nations High Commissioner for Refugees in Bosnia and Herzegovina. The bitter civil war had severed linkages between the country's ethnic Serbs, Croats, and Bosniaks and devastated the country. As recovery began, amidst overwhelming needs, my field office situated in the former "safe haven" town of Gorazde targeted the town's decimated infrastructure focusing on rebuilding homes and schools. As homes were rebuilt the recovery process started slowly. But it was only after the schools filled with teachers and students that the fractured communities began to show life again. It was my first lesson on the importance of schools in development/recovery situations, not only for education, but also for the health and interconnectedness of the community.
-
-[CV](/files/cv-rob-friedman.pdf)
-
 ### Rebekah Paci-Green
 
 <img src="/images/team-rebekah-paci-green.jpg" alt="Rebekah Paci-Green" style="max-width: 150px;">
