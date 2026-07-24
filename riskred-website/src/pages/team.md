@@ -69,7 +69,7 @@ In 1977 I came as a Fulbright scholar to study urban planning at the University 
 
 Apart from living in 'earthquake country' in Turkey and the U.S., it was the 1999 Kocaeli and Düzce earthquakes that shifted our lives and sent us on a new trajectory. A humanitarian instinct brought us to the front lines to set up one of the first "public participation GIS" efforts in the world, in Turkey. In 2005 I joined the United Nations Office for the Coordination of Humanitarian Affairs working to support international humanitarian response with geoinformatics. Until 2013 I consulted to the Assistant Secretary General and Chief Information Technology Officer of the UN Secretariat in Geneva and New York focusing on initiation of the UN Crisis Information Management System and the UN Spatial Data Infrastructure project.
 
-Now, in collaboration with my most resourceful and devoted Risk RED colleagues, I take delight in leading the development of Risk rApps: information and communications technology solutions in the service of risk reduction and resilience education for disasters.
+Now, in collaboration with my most resourceful and devoted Risk RED colleagues, I take delight in leading the development of the RiskrApps platforn: information and communications technology digital solutions in the service of risk reduction and resilience education for disasters.
 
 [CV](/files/cv-suha-ulgen.pdf)
 
