@@ -20,7 +20,7 @@ Seeking to fulfill my quest, I finished secondary school at the village, then do
 
 Soon after the 1988 earthquake, Nepal changed the building codes to address the threat of future earthquakes. I wanted to understand these changes, so I sought a master's degree in Japan. But when the Japanese Embassy asked for a research proposal I didn't have enough knowledge to even know where to begin.
 
-[CV](/files/cv-bishnu-pandey.pdf) *(note: the CV file linked from the old site appears to be for an unrelated physics researcher — worth checking with Bishnu for the correct file before publishing)*
+[CV](/files/cv-bishnu-pandey.pdf)
 
 ### Rebekah Paci-Green
 
@@ -38,6 +38,27 @@ Then, in a single afternoon in 1999, everything changed.
 
 [CV](https://huxley.wwu.edu/people/greenr21)
 
+### Michelle Katz
+<img src="/images/team-suha-ulgen.jpg" alt="Suha Ulgen" style="max-width: 150px;">
+
+xxxx
+xxx
+xxx
+xxx
+
+[CV](/files/cv-suha-ulgen.pdf)
+
+### Marla Petal
+
+<img src="/images/team-suha-ulgen.jpg" alt="Suha Ulgen" style="max-width: 150px;">
+
+XXX
+XXX
+XXX
+XXX
+
+[CV](/files/cv-suha-ulgen.pdf)
+
 ### Suha Ulgen
 
 <img src="/images/team-suha-ulgen.jpg" alt="Suha Ulgen" style="max-width: 150px;">
@@ -54,7 +75,7 @@ Now, in collaboration with my most resourceful and devoted Risk RED colleagues, 
 
 ### Ilan Kelman
 
-Ilan Kelman is Co-Director of Risk RED and can be found at [www.ilankelman.org](http://www.ilankelman.org) and on Twitter [@IlanKelman](https://twitter.com/ilankelman). Ilan is a Reader in Risk, Resilience and Global Health at University College London, England and Professor II at the University of Agder, Kristiansand, Norway. His overall research interest is linking disasters and health, including the integration of climate change into disaster research and health research. That covers three main areas: (i) disaster diplomacy and health diplomacy ([www.disasterdiplomacy.org](http://www.disasterdiplomacy.org)); (ii) island sustainability involving safe and healthy communities in isolated locations ([www.islandvulnerability.org](http://www.islandvulnerability.org)); and (iii) risk education for health and disasters ([www.riskred.org](http://www.riskred.org)).
+Ilan Kelman https://www.ilankelman.org/ and Instagram/Threads/X @ILANKELMAN and Bluesky ilankelman.bsky.social is Professor of Disasters and Health at University College London, England and Professor II at UiT The Arctic University of Norway. His overall research interest is linking disasters and health, integrating climate change into both. Three main areas are: (i) disaster diplomacy and health diplomacy https://www.disasterdiplomacy.org/ ; (ii) island sustainability focusing on safe and healthy living and livelihoods https://www.islandvulnerability.org/ ; and (iii) risk education for health and disasters https://www.riskred.org/
 
 ## Risk RED People
 
@@ -62,33 +83,12 @@ Ilan Kelman is Co-Director of Risk RED and can be found at [www.ilankelman.org](
 
 Risk RED is a not-for-profit corporation (501(c)(3)) registered in California with voluntary Board Members:
 
-- Mark Benthien, director of communication, education, and outreach for the Southern California Earthquake Center.
 - Marla Petal, founding Co-Director.
 - Michelle Katz, Esq., intellectual property rights lawyer.
-- Phyllis Ginsburg, volunteer.
-- Subhash Vaid, marketing strategist.
+- Bishnu Pandey,
+- Kevin Harria, Associate Professor Emeritus, Washington State University
 
 ### Co-Directors
 
 - [Ilan Kelman](http://www.ilankelman.org/) ([CV](http://www.ilankelman.org/IlanKelmanCV.pdf))
 - [Rebekah Paci-Green](https://huxley.wwu.edu/people/greenr21)
-
-### Advisory Board Members
-
-- Allan Lavell
-- Ben Wisner
-- Ian O'Donnell
-- Laura Steinberg
-- Susanna Hoffman
-
-### Consultants
-
-- Amod Dixit
-- Bishnu Pandey
-- Rajib Shaw
-- Suha Ulgen
-- Zeynep Turkmen
-
-### Associates
-
-Ana Miscolta, Cheney Shreve, Ali Asgary, Anup Karanth, Balaka Dey, Bijan Khazai, Bonnie Lund, Carol Kunz, Djillali Benouar, Dominic Dowling, Hilary Wallis, Jane Choi, JC Gaillard, June Kailes, Kubilay Hicyilmaz, Manu Gupta, Matt Hoss, Megh Rai, Nevra Erturk, Patrizia Bitter, Sanjaya Bhatia, Yasamin Izadkhah.
