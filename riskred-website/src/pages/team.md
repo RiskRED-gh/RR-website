@@ -39,7 +39,7 @@ Then, in a single afternoon in 1999, everything changed.
 [CV](https://huxley.wwu.edu/people/greenr21)
 
 ### Michelle Katz
-<img src="/images/team-suha-ulgen.jpg" alt="Suha Ulgen" style="max-width: 150px;">
+<img src="/images/" alt="Suha Ulgen" style="max-width: 150px;">
 
 xxxx
 xxx
@@ -50,7 +50,7 @@ xxx
 
 ### Marla Petal
 
-<img src="/images/team-suha-ulgen.jpg" alt="Suha Ulgen" style="max-width: 150px;">
+<img src="/images/" alt="Suha Ulgen" style="max-width: 150px;">
 
 XXX
 XXX
@@ -85,8 +85,8 @@ Risk RED is a not-for-profit corporation (501(c)(3)) registered in California wi
 
 - Marla Petal, founding Co-Director.
 - Michelle Katz, Esq., intellectual property rights lawyer.
-- Bishnu Pandey,
-- Kevin Harria, Associate Professor Emeritus, Washington State University
+- Bishnu Pandey, 
+- Kevin Harris, Associate Professor Emeritus, Washington State University
 
 ### Co-Directors
 
