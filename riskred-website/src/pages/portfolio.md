@@ -6,9 +6,7 @@ navOrder: 8
 permalink: /portfolio/
 ---
 
-## We've been around for a while.
-
-Over the past decade we have sought to improve the evidence base and the quality of approaches to risk reduction education and school safety. Here are just a few of our projects.
+Over the past decades we have sought to improve the evidence base and the quality of approaches to risk reduction education and school safety. Here are just a few of our projects.
 
 ### Community-Based School Construction
 
