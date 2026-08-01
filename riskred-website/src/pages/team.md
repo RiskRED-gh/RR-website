@@ -53,7 +53,7 @@ xxx
 <img src="/images/team-marla-petal.jpg" alt="Marla Petal" style="max-width: 150px;">
 
 Dr. Marla Petal is a child rights advocate, community organizer, and urban planner.
-Her professional career spans 40 years in policy, programming, education, and leadership development, Her focus and interests include: child rights, disability rights, community education for risk reduction and resilience, omprehensive school safety,  youth leadership for sustainability and resilience, action-oriented social and behavioral communications, and earthquake epidemiology,
+Her professional career spans 40 years in policy, programming, education, and leadership development, Her focus and interests include: child rights, disability rights, community education for risk reduction and resilience, comprehensive school safety,  youth leadership for sustainability and resilience, action-oriented social and behavioral communications, and earthquake epidemiology,
 
 [CV](/files/cv-marla-petal.pdf)
 
