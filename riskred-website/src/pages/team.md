@@ -83,9 +83,9 @@ Ilan Kelman https://www.ilankelman.org/ and Instagram/Threads/X @ILANKELMAN and 
 
 Risk RED is a not-for-profit corporation (501(c)(3)) registered in California with voluntary Board Members:
 
-- Marla Petal, founding Co-Director.
+- Marla Petal, founding Co-Director
 - Michelle Katz, Esq., intellectual property rights lawyer.
-- Bishnu Pandey, 
+- Bishnu Pandey, Faculty, British Columbia Institute of Technology
 - Kevin Harris, Associate Professor Emeritus, Washington State University
 
 ### Co-Directors
